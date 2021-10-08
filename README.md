@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jokerchen7
+- 👋 Hi, I’m Jason Chen
 - 👀 I’m interested in python and java
 - 🌱 I’m currently learning java
 - 💞️ I’m don't looking to collaborate
